@@ -1,5 +1,16 @@
 # Petshop Application using Fetch API
 
+## Screenshots
+    
+    Registered Clients:
+![clientes-cadastrados](https://user-images.githubusercontent.com/55142445/88086160-4946df80-cb5d-11ea-9fcd-12391a690e69.png)
+    
+    Register Client:
+![cadastro-cliente](https://user-images.githubusercontent.com/55142445/88086181-4fd55700-cb5d-11ea-9cd6-31d7320dca90.png)
+
+    Edit Cliente:
+![editar-cliente](https://user-images.githubusercontent.com/55142445/88086186-5237b100-cb5d-11ea-8e92-a46d122c7324.png)
+
 ## Goal
 
     - The goal of this little project is learn how to use Fetch API to lead with HTTP requests.
